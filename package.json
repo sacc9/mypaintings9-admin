@@ -1,9 +1,10 @@
 {
   "name": "my-project",
-  "private": true,
+  "license": MIT,
   "version": "0.1.0",
   "description": "A Strapi application",
   "scripts": {
+    "dev": "next dev",
     "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
